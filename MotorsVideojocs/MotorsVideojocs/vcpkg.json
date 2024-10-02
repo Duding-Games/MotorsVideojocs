@@ -1,0 +1,11 @@
+{
+  "version": 3,
+  "dependencies": [
+    "sdl2",
+    "glm",
+    "assimp",
+    "imgui",
+    "devil",
+    "wwise"
+  ]
+}
